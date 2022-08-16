@@ -1,0 +1,4 @@
+django
+opencv-contrib-python
+opencv-python
+numpy
